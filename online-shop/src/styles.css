@@ -1,0 +1,21 @@
+a.button_register{
+   padding: 10px;
+    border: none;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    background-color: rgba(240, 248, 255, 0);
+    text-decoration: underline;
+}
+nav.navbar{
+    /* background-color:hsl(218, 41%, 45%); */
+    background-color: #e3f2fd
+}
+div.card{
+    background-color: #ffffffaf;
+}
+div.cardHome{
+    background-color: #07030371;
+    border-radius: 15px;
+}
